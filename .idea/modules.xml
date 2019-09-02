@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MaratonesRPC/CCPL/MaratonesRPC/CCPL.iml" filepath="$PROJECT_DIR$/MaratonesRPC/CCPL/MaratonesRPC/CCPL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Campamento_Verano_2019/Campamento_Verano_2019.iml" filepath="$PROJECT_DIR$/Campamento_Verano_2019/Campamento_Verano_2019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Campamento_Verano_2019/Campamento_Verano_2019_Graphs.iml" filepath="$PROJECT_DIR$/Campamento_Verano_2019/Campamento_Verano_2019_Graphs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeForces/CodeForces.iml" filepath="$PROJECT_DIR$/CodeForces/CodeForces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Code_Jam/Code_Jam.iml" filepath="$PROJECT_DIR$/Code_Jam/Code_Jam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompetitivePrograming.iml" filepath="$PROJECT_DIR$/CompetitivePrograming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Entrenamiento/Entrenamiento.iml" filepath="$PROJECT_DIR$/Entrenamiento/Entrenamiento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ICPC_problems/ICPC_problems.iml" filepath="$PROJECT_DIR$/ICPC_problems/ICPC_problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maraton_Interna_2019/Maraton_Interna_2019.iml" filepath="$PROJECT_DIR$/Maraton_Interna_2019/Maraton_Interna_2019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaratonesRPC_CCPL/MaratonesRPC_CCPL.iml" filepath="$PROJECT_DIR$/MaratonesRPC_CCPL/MaratonesRPC_CCPL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Random_Problems/Random_Problems.iml" filepath="$PROJECT_DIR$/Random_Problems/Random_Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TopCoder/TopCoder.iml" filepath="$PROJECT_DIR$/TopCoder/TopCoder.iml" />
+    </modules>
+  </component>
+</project>
